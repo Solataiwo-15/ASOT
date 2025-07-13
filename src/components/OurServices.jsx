@@ -6,7 +6,7 @@ import img2 from '../assets/stranerd.png';
 import img3 from '../assets/bsec.png';
 import img4 from '../assets/flagmockup.png';
 import img5 from '../assets/codeavour.png';
-import img6 from '../assets/weddingIV.png';
+import img6 from '../assets/WeddingIV.png';
 
 const serviceData = [
   {
