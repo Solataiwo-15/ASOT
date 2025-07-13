@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import { useState } from 'react';
 import './Navbar.css';
-import vector from '../assets/vector.png';
+import vector from '../assets/Vector.png';
 import mail from '../assets/mail.png';
 import info from '../assets/info.png';
 import logo from '../assets/logo.png';
