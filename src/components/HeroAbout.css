@@ -1,0 +1,26 @@
+.hero-about {
+  background-color: #000000;
+  color: white;
+  text-align: center;
+  padding: 200px 350px;
+  font-family: 'Sora', sans-serif;
+}
+
+.hero-about h1 {
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 16px 0;
+}
+
+.hero-about .subheading {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 187%;
+  margin-bottom: 32px;
+}
+
+.hero-img img {
+  max-width: 100%;
+  height: auto;
+}

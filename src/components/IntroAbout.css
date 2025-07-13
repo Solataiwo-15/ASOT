@@ -1,0 +1,43 @@
+.intro-about {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 70px;
+  padding: 170px 71px;
+  background-color: #FFFFFF;
+}
+
+.intro-image img {
+  width: 500px;
+  border-radius: 15px;
+}
+
+.intro-content {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+}
+
+.intro-content .label {
+  color: #FEA4A4;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 600;
+  margin-bottom: 20px;
+  letter-spacing: 16%;
+}
+
+.intro-content h2 {
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 1.4;
+  color: #212131;
+  margin-bottom: 20px;
+}
+
+.intro-content .description {
+  color: #888;
+  line-height: 26px;
+  font-size: 16px;
+  font-weight: 400;
+}
