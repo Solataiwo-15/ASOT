@@ -1,8 +1,8 @@
 import React from 'react';
 import './About.css';
-import img from '../assets/image.png';
-import img1 from '../assets/image-1.png';
-import img2 from '../assets/image-2.png';
+import img from '../assets/Image.png';
+import img1 from '../assets/Image-1.png';
+import img2 from '../assets/Image-2.png';
 import arrow from '../assets/Arrow 1.png';
 
 function About() {
